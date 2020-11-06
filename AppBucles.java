@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- *  @author - 
+ *  @author - Diego Arbeloa
  *  
  * Punto de entrada a la aplicación
  *  

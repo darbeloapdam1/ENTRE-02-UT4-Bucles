@@ -2,7 +2,7 @@
 /**
  *  Clase que dibuja una figura 
  * 
- * @author - 
+ * @author - Diego Arbeloa
  *  
  */
 public class PintorFiguras

@@ -2,7 +2,7 @@
 /**
  *  Representa a una calcualdora que hace sumas octales
  * 
- * @author - 
+ * @author - Diego Arbeloa
  * 
  */
 public class CalculadoraOctal
