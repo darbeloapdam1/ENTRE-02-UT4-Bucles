@@ -22,7 +22,6 @@ public class Utilidades
             if(n % 10 <=7 && n % 10 >= 0){
                 esOctal = true;
             }else{
-                esOctal = false;
                 return esOctal;
             }
             n = n / 10;
